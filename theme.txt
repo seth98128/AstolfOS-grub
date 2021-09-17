@@ -2,7 +2,7 @@
 # Designed for any resolution (specific values filled in by script)
 
 # Global properties
-title-text: "AstolfoGrub UwU"
+title-text: "Astolfo Bean Plushie"
 title-color: "#ffffff"
 desktop-image: "background.jpg"
 desktop-color: "#000000"
