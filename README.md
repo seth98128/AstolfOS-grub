@@ -1,0 +1,2 @@
+# AstolfOS-grub
+gay
