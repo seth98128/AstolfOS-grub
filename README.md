@@ -1,2 +1,2 @@
-# AstolfOS-grub
+# Astolfo Plushie GRUB Theme
 gay
